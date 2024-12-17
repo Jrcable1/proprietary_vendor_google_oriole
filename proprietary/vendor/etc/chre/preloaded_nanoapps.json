@@ -1,4 +1,5 @@
-{ "source_dir": "/vendor/etc/chre",
+{
+  "source_dir": "/vendor/etc/chre",
   "nanoapps": [
     "activity",
     "ar_bridge",
@@ -14,6 +15,8 @@
     "ip_health",
     "motiondetector",
     "sd",
+    "sensorcollector",
     "smartbatching",
     "uv_exposure"
-]}
+  ]
+}
